@@ -1,2 +1,2 @@
 # images
-markdown images
+Images in Markdown file.
